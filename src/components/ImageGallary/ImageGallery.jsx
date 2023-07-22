@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import React from 'react';
-import { toast } from 'react-toastify';
 import { axiosAPI } from 'api/pixabay_api';
 
 import imageGallaryCSS from './ImageGallery.module.css';
